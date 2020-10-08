@@ -1,6 +1,6 @@
 # NamasteTechnologies_DataChallenge
 
-This project was completed as a response to a data challenge issued by Namaste Technology. You will find all my work in this repository.
+This project was completed as a response to a data challenge issued by Namaste Technologies. You will find all my work in this repository.
 
 The files that are included are as follows;
 	
